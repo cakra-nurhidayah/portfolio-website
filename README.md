@@ -1,2 +1,2 @@
-# portfolio-website
+# Portfolio-website
 My portfolio website to showcase my projects
